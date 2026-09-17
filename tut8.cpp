@@ -23,6 +23,8 @@ int main(){
 int a=6 ,b=7;
 int c=((((a*5)+b)-47)+87) ;
 cout<<c<<endl;
+cout<<"hello"<<endl;
+cout<<5745641;
 return  0;
 }
 
