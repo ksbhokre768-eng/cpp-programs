@@ -11,23 +11,23 @@ int main(){
     //      c=a+b;
     //      cout<<"The sum of a and b is: "<<c<<endl;
     //      cout<<"The global variable  is: "<<::c<<endl;
-    //  float d=4568.768f; 
-    //  long double e=4568.768l;
-    //  cout<<"the size of 4558.768 is"<< sizeof(4568.768)<<endl;
-    //  cout<<"the size of 4558.768 is"<< sizeof(4568.768)<<endl;
-    //  cout<<"the size of 4568.768f is"<< sizeof(4568.768f)<<endl;
-    //  cout<<"the size of 4568.768F is"<< sizeof(4568.768F)<<endl;
-    //  cout<<"the size of 4568.768l is"<< sizeof(4568.768l)<<endl;
-    //  cout<<"the size of 4568.768L is"<< sizeof(4568.768L)<<endl;
+     float d=4568.768f; 
+     long double e=4568.768l;
+     cout<<"the size of 4558.768 is"<< sizeof(4568.768)<<endl;
+     cout<<"the size of 4558.768 is"<< sizeof(4568.768)<<endl;
+     cout<<"the size of 4568.768f is"<< sizeof(4568.768f)<<endl;
+     cout<<"the size of 4568.768F is"<< sizeof(4568.768F)<<endl;
+     cout<<"the size of 4568.768l is"<< sizeof(4568.768l)<<endl;
+     cout<<"the size of 4568.768L is"<< sizeof(4568.768L)<<endl;
 
-    //  cout <<"the value of d is:"<<d<<endl<<"the value of e is"<<e<<endl;
+     cout <<"the value of d is:"<<d<<endl<<"the value of e is"<<e<<endl;
     // refrance variables
     // rohan------> monty------> kty---->rtyui------>rd
 
-    // float x=432;
-    // float & y=x;
-    // cout<<x<<endl;
-    // cout<<y<<endl;
+    float x=432;
+    float & y=x;
+    cout<<x<<endl;
+    cout<<y<<endl;
     //  typecasting
     int a=43;
     float b=43.67;

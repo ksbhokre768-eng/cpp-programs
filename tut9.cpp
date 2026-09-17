@@ -7,13 +7,13 @@ int main(){
     int pass;
     cout<<" tell me your pass"<<endl;
  cin>>pass;
-//  if((age<18) && (age>10)){
+//  if((age<18) && (age>12)){
 //  cout<<"you are not allowed"<<endl;
 //  }
 //  else if(age==18){
 //  cout<<"you to get in need permisssion"<<endl;
 //    }
-//    else if(age<12){
+//    else if(age<=12){
 //    cout<<"you not yet born"<<endl;
 //    }
 //    else{
@@ -23,7 +23,7 @@ int main(){
 
     switch (pass)
     {
-    case 100:
+    case 2:
         cout<<"your pass is correct  "<<endl;
         break;
 

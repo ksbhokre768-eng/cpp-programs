@@ -15,7 +15,7 @@ int main(){
     cout<<"\nvalue of pi is:"<<pi;
     cout<<"\nvalue of c is:"<<c;
 
-    cout<<"To find the sum of a and b where a is 8 and be is 9: "<<endl;
+    cout<<"\nTo find the sum of a and b where a is 8 and be is 9: "<<endl;
     sum(9, 8);
     return 0;
 }
