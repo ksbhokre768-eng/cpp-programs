@@ -23,7 +23,7 @@ int main(){
 
     switch (pass)
     {
-    case 2:
+    case 2560:
         cout<<"your pass is correct  "<<endl;
         break;
 
